@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\caanculator\bin\Debug\caanculator.exe.config
+C:\Users\student\source\repos\caanculator\bin\Debug\caanculator.exe
+C:\Users\student\source\repos\caanculator\bin\Debug\caanculator.pdb
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.csprojAssemblyReference.cache
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.Form1.resources
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.Properties.Resources.resources
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.csproj.GenerateResource.cache
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.exe
+C:\Users\student\source\repos\caanculator\obj\Debug\caanculator.pdb

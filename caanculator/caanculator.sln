@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caanculator", "caanculator.csproj", "{03AD9FC2-6D6C-4CF0-8366-42C61A467347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AD9FC2-6D6C-4CF0-8366-42C61A467347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AD9FC2-6D6C-4CF0-8366-42C61A467347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AD9FC2-6D6C-4CF0-8366-42C61A467347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AD9FC2-6D6C-4CF0-8366-42C61A467347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9438A53-BE84-47C1-BEFF-82F257D19317}
+	EndGlobalSection
+EndGlobal
